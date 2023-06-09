@@ -1,1 +1,2 @@
 data/*
+global-exclude .DS_Store
